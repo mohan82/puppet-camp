@@ -5,6 +5,20 @@
 
 Puppet Board ---- Open Source Dashboard for Puppet
 
-r10k ---- Alternative for Puppet Librarian
+#r10k
+ ---- Alternative for Puppet Librarian
+
+
+#Puppet Modules
+Puppet Style guide 
+--Structuring modules
+-- Module fundamentals ---
+
+
+puppet module generate --- module generator
+
+puppet stdlib --- for param validation
+init.pp
+params.pp
 
 
