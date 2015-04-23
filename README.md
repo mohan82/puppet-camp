@@ -21,4 +21,9 @@ puppet stdlib --- for param validation
 init.pp
 params.pp
 
-
+# Best Practices
+---Dont look up Heira directly
+-- Not too many dependencies
+-- Module -Single Responsibility
+-- Dont depend on another module
+--Puppet dependency graph with contains() keyword in puppet 3.5x
